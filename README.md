@@ -26,10 +26,6 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jonghee-son&theme=dracula) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jonghee-son&theme=dracula)
 
-- Solved.ac profile
-
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=armored2564)](https://solved.ac/armored2564)
-
 </details>
 <details>
 <summary>🎵 What I'm listening now</summary>
